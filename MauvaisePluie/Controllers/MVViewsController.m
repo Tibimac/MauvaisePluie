@@ -528,6 +528,7 @@
         }
         else if (isOutNextToPlayer == YES || isOutBelowPlayer == YES)
         {
+            [asteroid removeFromSuperview];
             // Il faut stocker les asteroid a supprimer dans un tableau séparé
             // Car il est impossible de supprimer un éléments d'un tableau pendant que le tableau est parcouru
             [asteroidsToRemove addObject:asteroid];
