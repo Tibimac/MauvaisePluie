@@ -1,6 +1,11 @@
 # MauvaisePluie
 Exercice "MauvaisePluie" (Jeu) de la semaine 6 du MOOC "Programmation iPhone et iPad". Réalisation : 23 mars 2015
 
+![Home de MauvaisePluie](http://www.tibimac.com/uploads_forums/github/mauvaise_pluie-home.png "MauvaisePluie - Home")
+![Settings de MauvaisePluie](http://www.tibimac.com/uploads_forums/github/mauvaise_pluie-settings.png "MauvaisePluie - Settings")
+![Jeu de MauvaisePluie](http://www.tibimac.com/uploads_forums/github/mauvaise_pluie-game.pn "MauvaisePluie - Jeu")
+![Scrores de MauvaisePluie](http://www.tibimac.com/uploads_forums/github/mauvaise_pluie-scores.pn "MauvaisePluie - Scores")
+
 - ARC activé.
 - Structure MVC.
 - Pas de storyboard.
